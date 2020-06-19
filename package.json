@@ -1,0 +1,14 @@
+{
+  "name": "server-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MMortari/server-test.git",
+  "author": "Matheus Mortari <bmortari2000@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
